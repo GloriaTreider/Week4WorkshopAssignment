@@ -8,7 +8,7 @@
     "build": "parcel build"
   },
   "keywords": [],
-  "author": "Gloria Treider",
+  "author": "Anna  Daves, Kara Gresham, Susan Lopez, Damian Preiss Jr, Gloria Treider",
   "license": "ISC",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.9.3",
